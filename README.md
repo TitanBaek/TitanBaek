@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/codereview-485A62?style=flat-square&logo=codereview&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobeaudition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobe after effects&logoColor=white"/>
