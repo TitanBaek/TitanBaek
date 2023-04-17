@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![TitanBaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanbaek&show_icons=true&theme=great-gatsby)
+
+<img src="https://img.shields.io/badge/phpstorm-3DDC84?style=flat-square&logo=phpstorm&logoColor=white"/>
