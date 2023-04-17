@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div style="widthL100% hight:auto; background-color:black">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanbaek&show_icons=true&theme=radical)
-</div>
+(https://github-readme-stats.vercel.app/api?username=titanbaek&show_icons=true&theme=gruvbox)
