@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div onClick="https://www.naver.com">Hello!</div>
+<div onclick="https://www.naver.com" style="cursor:pointer">Hello!</div>
