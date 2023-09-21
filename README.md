@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/phpstorm-3DDC84?style=flat-square&logo=phpstorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobepremiere-485A62?style=flat-square&logo=adobepremiere&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeaudition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=adobe after effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aftereffects-9999FF?style=flat-square&logo=adobe after effects&logoColor=white"/>
 </li>
