@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![TitanBaek's GitHub stats](https://github-readme-stats.vercel.app/api?username=titanbaek&show_icons=true&theme=great-gatsby)
 <li style="list-style-type: none;">
   
-<img src="https://img.shields.io/badge/phpstorm-3DDC84?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/phpstorm-3DDC84?style=flat-square&logo=C#&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity-3DDC84?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp-3DDC84?style=flat-square&logo=Csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/phpstorm-3DDC84?style=flat-square&logo=phpstorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/codereview-485A62?style=flat-square&logo=codereview&logoColor=white"/>
